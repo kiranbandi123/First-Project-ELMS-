@@ -1,0 +1,6 @@
+admin username: kiran
+admin password: kittu@123
+ 
+
+user username/email id: k@gmail.com
+user password : Kittu@123
